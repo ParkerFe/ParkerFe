@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Parker Fellows
+- 👋 My name is Parker Fellows
 - 👀 I’m interested in problem-solving and language learning
 - 🌱 I’m currently learning Java/C#/C++
 - 📫 How to reach me (pdfellows31@gmail.com)
